@@ -19,6 +19,17 @@ body{
     top: 0px;
     left: -10px;
 }
+.button{
+    position: absolute;
+    left: 1055.5px;
+    top: 157px;
+}
+.button1{
+    position: absolute;
+    left: 1055.5px;
+    top: 322px;
+}
+
 .absolutRight{
     position: absolute;
     top: 0px;
@@ -35,6 +46,11 @@ body{
     left: 1341px;
 }
 
+.absolutcar{
+    position: absolute;
+    left: 1055.5px;
+    top: 27.5px;
+}
 .absolutCircle{
     position: absolute;
     top: 16px;
